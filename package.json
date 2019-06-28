@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "A vscode theme",
+  "engines": {
+    "vscode": "^1.34.0"
+  },
+  "publisher": "jessica-cao",
+  "license": "ISC",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+      "label": "Saturn",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Saturn.color-theme.json"
+      }
+    ]
+  }
+}
