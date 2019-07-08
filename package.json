@@ -1,22 +1,30 @@
 {
-  "name": "package",
-  "version": "1.0.0",
-  "description": "A vscode theme",
-  "engines": {
-    "vscode": "^1.34.0"
-  },
-  "publisher": "jessica-cao",
-  "license": "ISC",
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-      "label": "Saturn",
-      "uiTheme": "vs-dark",
-      "path": "./themes/Saturn.color-theme.json"
-      }
-    ]
-  }
+	"name": "package",
+	"version": "1.0.0",
+	"description": "A vscode theme",
+	"engines": {
+		"vscode": "^1.34.0"
+	},
+	"publisher": "jessica-cao",
+	"repository": {
+		"vscode": "saturn-1.0.0"
+	},
+	"license": "ISC",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Saturn",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Saturn.color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "a0a5ef2f-deee-44a0-b25e-dc7bced7b58f",
+		"publisherDisplayName": "Jessica Cao",
+		"publisherId": "25ad29a0-5096-4295-9a24-fca130750ada"
+	}
 }

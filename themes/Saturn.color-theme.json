@@ -29,7 +29,7 @@
                 "source"
             ],
             "settings": {
-              "foreground": "#aec2c2"
+              "foreground": "#C2C4C4"
             }
           },
 
@@ -52,7 +52,7 @@
                 "variable.parameter"
             ],
             "settings": {
-                "foreground": "#aec2c2"
+                "foreground": "#C2C4C4"
             }
 
         },
@@ -88,7 +88,7 @@
                "punctuation.definition.annotation"
             ],
             "settings": {
-                "foreground": "#7DBCE0",
+                "foreground": "#C2C4C4",
             }
         },
 
@@ -99,7 +99,7 @@
                 "meta.function-call"
             ],
             "settings": {
-                "foreground": "#aec2c2",
+                "foreground": "#C2C4C4",
             }
         },
 
@@ -253,7 +253,7 @@
                 "punctuation.definition.tag.html",
             ],
             "settings": {
-                "foreground": "#FFB7C5"
+                "foreground": "#FFAE57"
             },
         },
 
@@ -270,6 +270,24 @@
                 "foreground": "#99C794"
             }
         },
+
+        {
+            "name": "CSS Class and Support",
+            "scope": [
+              "source.css support.type.property-name",
+              "source.sass support.type.property-name",
+              "source.scss support.type.property-name",
+              "source.less support.type.property-name",
+              "source.stylus support.type.property-name",
+              "source.postcss support.type.property-name",
+              "support.type.property-name",
+              "support.variable.object.node",
+              "support.variable.object.process"
+            ],
+            "settings": {
+              "foreground": "#137a7a"
+            }
+          },
 
         {
             "name": "URL",
