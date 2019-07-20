@@ -4,6 +4,8 @@ A dark blue theme for VS Code.
 
 ![](https://github.com/jessica-cao/saturn-vscode/blob/master/images/js.png)
 
+![](https://github.com/jessica-cao/saturn-vscode/blob/master/images/working-tree.png)
+
 
 **Installation** via VS Code
 -----
