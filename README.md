@@ -23,6 +23,13 @@ A dark blue theme for VS Code, inspired by [Halcyon](https://github.com/bchiang7
 **Manual Installation**
 -----
 1. Copy this repository into the <user home>/.vscode/extensions folder and restart VS Code.
+    
+    
+    
+**Alternate Way of Installation**
+-----
+1. Launch VS Code Quick Open (`Ctrl` + `P`), paste the following command, and press enter.<br></br>
+`ext install jessica-cao.Saturn`
 
 **Syntax Colours**
 -----
