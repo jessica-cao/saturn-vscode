@@ -25,11 +25,16 @@ A dark blue theme for VS Code, inspired by [Halcyon](https://github.com/bchiang7
 -----
 Colour | Usage
 ------------ | -------------
-![#C2C4C4](https://placehold.it/15/c2c4c4/000000?text=+) #C2C4C4|variables, parameters
+![#C2C4C4](https://placehold.it/15/c2c4c4/000000?text=+) #C2C4C4|variables, parameters, annotations
 ![](https://placehold.it/15/e15a60/000000?text=+) #E15A60|types (const, int, boolean, long, char)
 ![](https://placehold.it/15/99b2dd/000000?text=+) #99B2DD|modifiers (ex. public, static, private)
-![](https://placehold.it/15/fac863/000000?text=+) #FAC863|constants, operators (assignment, arithmetic, and logical)
-![](https://placehold.it/15/99b2dd/000000?text=+) #99B2DD
+![](https://placehold.it/15/fac863/000000?text=+) #FAC863|constants, operators
+![](https://placehold.it/15/ff0000/000000?text=+) #FF0000|Punctuations and accessors
+![](https://placehold.it/15/685044/000000?text=+) #685044|Packages, namespaces, and modules
+![](https://placehold.it/15/875e8d/000000?text=+) #875E8D|Constructors, destructors
+![](https://placehold.it/15/ffae57/000000?text=+) #FFAE57|HTML and XML tags
+![](https://placehold.it/15/137a7a/000000?text=+) #137A7A|CSS Classes
+
 
 
 **Disclaimer**
