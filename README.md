@@ -1,4 +1,7 @@
 # saturn-vscode
+<a href="https://marketplace.visualstudio.com/items?itemName=jessica-cao.Saturn">
+    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/jessica-cao.Saturn.svg" />
+  </a>
 
 A dark blue theme for VS Code, inspired by [Halcyon](https://github.com/bchiang7/halcyon-vscode).
 
